@@ -1,2 +1,2 @@
 # IMU-Robot
-IMU controlled robot w/ FK and IK
+IMU controlled robot with forward kinematics and 
