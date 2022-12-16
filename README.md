@@ -1,2 +1,3 @@
 # IMU-Robot
-IMU controlled robot with forward kinematics and 
+Final project for ECE 3641
+IMU controlled robot with forward kinematics and inverse kinematics
